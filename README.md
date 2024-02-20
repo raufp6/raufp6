@@ -27,26 +27,15 @@ Full-stack developer with 4 years of experience developing and integrating multi
 
 ![C](https://img.shields.io/badge/C-317823?style=for-the-badge&logo=C%20&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-114836?style=for-the-badge&logo=c++&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-035375?style=for-the-badge&logo=C%20sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5BA8C9?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-789CAB?style=for-the-badge&logo=r&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-851773?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-DD861F?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-62B962?style=for-the-badge&logo=sql&logoColor=white)
 
 
 ### Front-End Development
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![angular](https://img.shields.io/badge/Angular-593D88?style=for-the-badge&logo=angular&logoColor=white)
-![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
