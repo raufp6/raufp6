@@ -188,16 +188,3 @@ Interested in how everything works? [Click here](https://github.com/codemaker201
 | Red | 3 | Connect4Bot on behalf of [@codemaker2015](https://github.com/codemaker2015) |
 | Blue | 6 | Connect4Bot on behalf of [@codemaker2015](https://github.com/codemaker2015) |
 
-**:trophy: Leaderboard: Top 10 players with the most game winning moves :1st_place_medal:**
-| Player | Wins |
-| ------ | -----|
-| [@antjacquemin](https://github.com/antjacquemin) | 73 |
-| Connect4Bot :robot: | 40 |
-| [@darshanr27](https://github.com/darshanr27) | 21 |
-| [@marcosbarker](https://github.com/marcosbarker) | 20 |
-| [@shpatrickguo](https://github.com/shpatrickguo) | 9 |
-| [@crxssed7](https://github.com/crxssed7) | 9 |
-| [@alrifay](https://github.com/alrifay) | 6 |
-| [@kerolloz](https://github.com/kerolloz) | 6 |
-| [@JohnyP36](https://github.com/JohnyP36) | 6 |
-| [@JessicaLim8](https://github.com/JessicaLim8) | 5 |
