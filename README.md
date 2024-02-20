@@ -45,10 +45,10 @@ Full-stack developer with 4 years of experience developing and integrating multi
 ### Frameworks
 
 ![jgnago](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![graphql](https://img.shields.io/badge/GraphQL-ff3399?style=for-the-badge&logo=graphql&logoColor=white)
-![hadoop](https://img.shields.io/badge/Hadoop-cc9900?style=for-the-badge&logo=hadoop&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
-![apche2](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 
 
@@ -56,13 +56,10 @@ Full-stack developer with 4 years of experience developing and integrating multi
 
 ### Database
 
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-cc6600?style=for-the-badge&logo=mysql&logoColor=white)
-![oracle](https://img.shields.io/badge/Oracle-990000?style=for-the-badge&logo=oracle&logoColor=white)
-![mssql](https://img.shields.io/badge/MS_SQL-999966?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![neo4j](https://img.shields.io/badge/Neo4j-1BACEE?style=for-the-badge&logo=neo4j&logoColor=white)
-![hive](https://img.shields.io/badge/Hive-cc9900?style=for-the-badge&logo=hive&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
