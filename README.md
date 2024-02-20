@@ -21,13 +21,6 @@ Full-stack developer with 4 years of experience developing and integrating multi
 
 
 
-## 📕 Publications
-
--    📜 **Patent** - **Method and system for assessing and improving 
-wellness of person using body gestures** (08/2021 - Present).
--    📰 **Journal publication - Living smart at smart home**
-_KETCON 2017 (01/2017)_
-
 ## 🛠️ Skills
 
 ### Languages
@@ -45,13 +38,6 @@ _KETCON 2017 (01/2017)_
 ![Go](https://img.shields.io/badge/Go-DD861F?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-62B962?style=for-the-badge&logo=sql&logoColor=white)
 
-### Game Development
-
-![unity3d](https://img.shields.io/badge/unity3d-20232A?style=for-the-badge&logo=unity&logoColor=61DAFB)
-![unreal](https://img.shields.io/badge/unreal-20112A?style=for-the-badge&logo=unreal-engine&logoColor=61DAFB)
-![oculus](https://img.shields.io/badge/Oculus-272080?style=for-the-badge&logo=oculus&logoColor=61DAFB)
-![phaser](https://img.shields.io/badge/Phaser-0C490B?style=for-the-badge&logo=phaser.js&logoColor=61DAFB)
-![web xr](https://img.shields.io/badge/WebXR-610033?style=for-the-badge&logo=webxr&logoColor=white)
 
 ### Front-End Development
 
@@ -74,19 +60,9 @@ _KETCON 2017 (01/2017)_
 ![hadoop](https://img.shields.io/badge/Hadoop-cc9900?style=for-the-badge&logo=hadoop&logoColor=white)
 ![nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Block-Chain Development
 
-![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![solidity](https://img.shields.io/badge/Solidity-611130?style=for-the-badge&logo=solidity&logoColor=white)
 
-### Mobile App Development
 
-![android](https://img.shields.io/badge/Android-66ff66?style=for-the-badge&logo=android&logoColor=white)
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-3366cc?style=for-the-badge&logo=dart&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-cc0000?style=for-the-badge&logo=kotlin&logoColor=white)
-![react native](https://img.shields.io/badge/React%20Native-2C2E3B?style=for-the-badge&logo=react&logoColor=white)
 
 ### Database
 
@@ -99,25 +75,8 @@ _KETCON 2017 (01/2017)_
 ![hive](https://img.shields.io/badge/Hive-cc9900?style=for-the-badge&logo=hive&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### DevOps
 
-![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whit)
-![docker](https://img.shields.io/badge/Docker-006699?style=for-the-badge&logo=docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/Kubernetes-0066cc?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Backend as a Service (BaaS)
-
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-### Design Tools
-
-![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![blender](https://img.shields.io/badge/Blender-ff9900?style=for-the-badge&logo=blender&logoColor=white)
-![photoshop](https://img.shields.io/badge/Photoshop-3366cc?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
 
 
 ## 🔗 Links
