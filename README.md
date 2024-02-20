@@ -6,18 +6,16 @@
 
 ## 🚀 About Me
 
-#### **Full-stack developer with 4 years of experience developing and integrating multi-faceted applications to facilitate smooth business operations. Proficient in Python,Django,ReactJs,PHP and MySQL in creating bug-free systems to meet client expectations. I am dedicated to delivering high-quality solutions that contribute to the seamless functioning of diverse applications.
-
 Full-stack developer with 4 years of experience developing and integrating multi-faceted applications to facilitate smooth business operations. Proficient in Python,Django,ReactJs,PHP and MySQL in creating bug-free systems to meet client expectations. I am dedicated to delivering high-quality solutions that contribute to the seamless functioning of diverse applications.
 
 
-## 🏅 Achievements
+## 💡 Highlights
 
 -    👨‍💻 Completed **10+ client projects**
--    🥇 **3+ certifications and course completions from various learning platforms.
--    🥇 **Ranked #1** in **Java** on _HackerRank_
--    📜 **Designed and developed a scalable News Portal platform that handled over 10k daily transactions
--    👩🏼‍💻 **4Successfully enhanced website loading speed by 30% through efficient code optimization and resource management.
+-    🥇 3+ certifications and course completions from various learning platforms.
+-    🥇 Ranked #1** in **Java** on _HackerRank_
+-    📜 Designed and developed a scalable News Portal platform that handled over 10k daily transactions
+-    👩🏼‍💻 Successfully enhanced website loading speed by 30% through efficient code optimization and resource management.
 
 
 
