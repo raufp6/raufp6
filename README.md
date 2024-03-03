@@ -23,8 +23,7 @@ Full-stack developer with 4 years of experience developing and integrating multi
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-317823?style=for-the-badge&logo=C%20&logoColor=white)
-![C++](https://img.shields.io/badge/C++-114836?style=for-the-badge&logo=c++&logoColor=white)
+
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
